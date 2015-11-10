@@ -1,0 +1,5 @@
+E:\glaky\websites\hermesoft\PSP\bin\TecfiCare.dll.config
+E:\glaky\websites\hermesoft\PSP\bin\TecfiCare.dll
+E:\glaky\websites\hermesoft\PSP\bin\TecfiCare.pdb
+E:\glaky\websites\hermesoft\PSP\obj\Debug\TecfiCare.dll
+E:\glaky\websites\hermesoft\PSP\obj\Debug\TecfiCare.pdb

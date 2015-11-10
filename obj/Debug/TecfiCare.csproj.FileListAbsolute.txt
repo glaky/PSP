@@ -1,0 +1,11 @@
+D:\glaky\websites\hermesoft\TecfiCare\bin\TecfiCare.dll
+D:\glaky\websites\hermesoft\TecfiCare\bin\TecfiCare.pdb
+D:\glaky\websites\hermesoft\TecfiCare\obj\Debug\TecfiCare.dll
+D:\glaky\websites\hermesoft\TecfiCare\obj\Debug\TecfiCare.pdb
+D:\glaky\websites\hermesoft\TecfiCare\obj\Debug\TecfiCare.csprojResolveAssemblyReference.cache
+E:\glaky\websites\hermesoft\TecfiCare\bin\TecfiCare.dll.config
+E:\glaky\websites\hermesoft\TecfiCare\bin\TecfiCare.dll
+E:\glaky\websites\hermesoft\TecfiCare\bin\TecfiCare.pdb
+E:\glaky\websites\hermesoft\TecfiCare\obj\Debug\TecfiCare.csprojResolveAssemblyReference.cache
+E:\glaky\websites\hermesoft\TecfiCare\obj\Debug\TecfiCare.dll
+E:\glaky\websites\hermesoft\TecfiCare\obj\Debug\TecfiCare.pdb

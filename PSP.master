@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="PSP.master.cs" Inherits="PSP.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="~/styles/PSP.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+    <form id="fm_master" runat="server">
+        <div id="wrapper">
+            <div id="header">
+                <div id="logo">
+                    <img src="~/Images/NurseService2015.png" alt="PSP" runat="server" /></div>
+            </div>
+            <div id="status">
+                <asp:ContentPlaceHolder ID="cph_status" runat="server">&nbsp;</asp:ContentPlaceHolder>
+            </div>
+            <div id="cph">
+                <asp:ContentPlaceHolder ID="cph_main" runat="server">&nbsp;</asp:ContentPlaceHolder>
+            </div>
+            <div id="spacer"></div>
+            <div id="footer">
+                <asp:HyperLink ID="hlWebMaseter" NavigateUrl="mailto: office@hermesoft.at" runat="server">Webmaster</asp:HyperLink>
+                | Beta Release &copy; hermesoft 2015
+        
+            </div>
+        </div>
+    </form>
+</body>
+</html>
